@@ -1,4 +1,6 @@
 # git-michelada
 - Esto es una practica de git
--Hola soy Mely y estoy editando
-Esto es otra prueba owo
+- Hola mundo qué me cuentas?
+- Hola soy Mely y estoy editando
+- Esto es otra prueba owo
+
